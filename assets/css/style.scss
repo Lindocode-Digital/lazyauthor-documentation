@@ -1,0 +1,28 @@
+---
+---
+
+$header-bg-color: #0d0d0d;
+$header-bg-color-secondary: #1a1a1a;
+
+$section-headings-color: #e10600; // red accent
+$body-text-color: #eaeaea;
+$link-color: #e10600;
+
+@import "{{ site.theme }}";
+
+body {
+  background: #0b0b0b;
+  color: #eaeaea;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+a {
+  color: #e10600;
+}
+
+a:hover {
+  color: #ff2a2a;
+}
