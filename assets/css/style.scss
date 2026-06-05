@@ -46,6 +46,11 @@ a:hover {
 
 .main-content code {
   color: #E8E1FF;
+  background: rgba(109, 74, 235, 0.15);
+  border: 1px solid rgba(109, 74, 235, 0.3);
+  border-radius: 6px;
+  padding: 0.15em 0.4em;
+  font-size: 0.9em;
 }
 
 .main-content pre {
