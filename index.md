@@ -48,7 +48,7 @@ How to write, build, and export your story or book using LazyAuthor.
 
 1. [Creating your account](#1-creating-your-account)
 2. [Choosing your format](#2-choosing-your-format)
-3. [Interactive Story Editor Walkthrough](#3-interactive-story-editor--walkthrough)
+3. [Interactive Story Editor Walkthrough](#3-interactive-story-editor-walkthrough)
    - [Your first scene](#31-your-first-scene)
    - [Adding more scenes](#32-adding-more-scenes)
    - [Creating choices and branching paths](#33-creating-choices-and-branching-paths)
