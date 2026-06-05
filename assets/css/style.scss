@@ -4,9 +4,9 @@
 $header-bg-color: #0d0d0d;
 $header-bg-color-secondary: #1a1a1a;
 
-$section-headings-color: #e10600; // red accent
+$section-headings-color: #6D4AEB;
 $body-text-color: #eaeaea;
-$link-color: #e10600;
+$link-color: #6D4AEB;
 
 @import "{{ site.theme }}";
 
@@ -15,14 +15,47 @@ body {
   color: #eaeaea;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   color: #ffffff;
 }
 
 a {
-  color: #e10600;
+  color: #6D4AEB;
 }
 
 a:hover {
-  color: #ff2a2a;
+  color: #8668F0;
+}
+
+.page-header {
+  background-image: linear-gradient(
+    135deg,
+    #0d0d0d 0%,
+    #1a1a1a 50%,
+    #5A38D6 100%
+  );
+}
+
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: #6D4AEB;
+}
+
+.main-content code {
+  color: #E8E1FF;
+}
+
+.main-content pre {
+  border-left: 4px solid #6D4AEB;
+}
+
+.btn {
+  border-color: #6D4AEB;
+}
+
+.btn:hover {
+  background-color: rgba(109, 74, 235, 0.15);
 }
