@@ -1,0 +1,1 @@
+# lazyauthor-documentation
